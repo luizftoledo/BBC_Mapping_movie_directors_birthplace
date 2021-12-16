@@ -14,5 +14,5 @@ This was part of a final project for a introduction to programming class at [Col
 Obs: the code **won't wor**k unless you get an API key here(https://developer.here.com/) and add the code where it says **" API_KEY ="**
 
 Final result:
-[Where were the people who directed these movies born?](https://gfycat.com/cookedangrygrizzlybear)
+![Where were the people who directed these movies born?](https://github.com/luizftoledo/BBC_Mapping_movie_directors_birthplace/blob/main/ezgif-4-fcb9e0790b.gif?raw=true)
 
